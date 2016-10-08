@@ -1,0 +1,19 @@
+{
+  "name": "data-skup-2016",
+  "version": "1.0.0",
+  "description": "1. Se på hva som finnes i data.json. 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^7.0.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "bluebird": "^3.4.6",
+    "elasticsearch": "^11.0.1"
+  }
+}
